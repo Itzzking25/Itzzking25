@@ -5,6 +5,8 @@
 <h1>Coding</h1>
 
 <p>This is my link to my code tutorial helper: https://www.w3schools.com/default.asp </p>
+  <p> ![image](https://user-images.githubusercontent.com/96046074/156721868-994b463b-b552-45cf-beb9-c981b263cde0.png) /p
+
 
   <h2> About Me Page </h2>
   
